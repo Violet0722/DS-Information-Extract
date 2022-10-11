@@ -1,0 +1,3 @@
+For personnel with some errors, dblp may have two scenarios.
+1. data for the correct person exists
+2. the data for the correct person does not exist
